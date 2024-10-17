@@ -17,7 +17,7 @@ TITLE 24\7 CRUSH only
 HUB
 
 ## Optional URL for faster resource downloading.
-RESOURCE_URL url
+#RESOURCE_URL url
 
 ## Add a # infront of this if you want to use the SQL based admin system, the legacy system uses admins.txt and files in the data folder. You need to set up your database to use the SQL based system.
 ADMIN_LEGACY_SYSTEM
